@@ -1,0 +1,31 @@
+
+body{
+    background-image: url(https://www2.d125.org/applied_arts/teched/courses/WEB/portfolios/2014_FallP8/Rami_Portfolio_Period8/unit4_css/project_1folder/cssProject1/background.jpg);
+}
+.container{
+    background-color:#444444;
+    width: 1000px;
+    height: 810px;
+    margin: auto;
+    margin-top: 36px;
+    border-radius: 20px;
+}
+img{
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 5px;
+    /* margin: auto; */
+    border-radius: 20px;
+    opacity: 0.8;
+}
+ img:hover{
+    opacity: 1;
+}
+p{
+    font-size: 50px;
+    margin-top: 15px;
+    margin-bottom: 30px;
+    text-align: center;
+    color: azure;
+}
+
